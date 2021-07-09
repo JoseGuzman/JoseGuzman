@@ -55,5 +55,7 @@ Here are some ideas to get you started:
 <br />
   
   ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGuzman&langs_count=12&count_private=true)](https://github.com/joseguzman/github-readme-stats)
 
-<img align="left" alt="Guzman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoseGuzman&show_icons=true&hide_border=true" />
+<img align="left" alt="Guzman's Github Stats" 
+     src="https://github-readme-stats.vercel.app/api?username=JoseGuzman&show_icons=true&hide_border=true" />
