@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a deep network model that predicts seizures in epileptic patients.
-- 🌱 I’m learning Cloud computing.
+- 🌱 I’m learning Cloud computing to deploy my machine learning models.
 - 👯 I’m looking to collaborate on Cloud implementation of custom machine learning methods.
 - 🤔 I’m looking for help in financial education and the stock market.
 - 💬 Ask me about neuroscience, scientific instrumentation or analysis.
