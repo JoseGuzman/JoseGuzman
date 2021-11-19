@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: most of what I write is off-line!
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{joseguzman}/notebook)
 
 
 ###  Connect with me:
