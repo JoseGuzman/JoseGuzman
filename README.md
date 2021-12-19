@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: invite me for a coffee.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: most of what I write is off-line!
-
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{joseguzman}/notebook)
+- I am also a ![joseguzman](https://road-to-kaggle-grandmaster.vercel.app/api/simple/joseguzman)
 
 
 ###  Connect with me:
